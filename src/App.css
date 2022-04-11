@@ -1,0 +1,219 @@
+body {
+  display: flex;
+  height: 625px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #51b2f17a;
+}
+
+.forms {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid black;
+  width: 80vw;
+  margin: 0 auto;
+  min-width: 200px;
+  background-color: white;
+  align-items: center;
+  align-content: center;
+}
+
+#marginTop {
+  margin-top: 30px;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.input {
+  display: flex;
+  width: 17vw;
+  max-width: 300px;
+  min-width: 80px;
+  height: 30px;
+}
+
+.inputText {
+  display: flex;
+  width: 17vw;
+  max-width: 300px;
+  min-width: 80px;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.opportunityTable {
+  display: flex;
+  flex-direction: column;
+}
+
+.opportunityTableContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.centerText {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.leadPainel {
+  border: 1px solid black;
+  max-width: 600px;
+  width: 100vw;
+  padding: 0.5vw 2vw;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.head {
+  display: flex;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.boardText {
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  margin: 0;
+  align-self: center;
+  font-weight: bold;
+}
+
+.leadAdd {
+  width: 12.5em;
+  height: 3em;
+  background-color: #4551fd;
+  border: black;
+  color: white;
+  margin-bottom: 0.5em;
+  cursor: pointer;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.leadAddButton {
+  width: 12.5em;
+  height: 3em;
+  background-color: #4551fd;
+  border: black;
+  color: white;
+  margin-bottom: 0.5em;
+  cursor: pointer;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.repeat {
+  font-weight: bold;
+}
+
+.first {
+  background-color: #fffefe;
+  color: rgb(0, 0, 0);
+}
+
+.formLead {
+  display: flex;
+}
+
+.toCheck {
+  width: 20vw;
+  margin: 0 auto;
+}
+
+.heightTable {
+  height: 1.54em;
+}
+
+.add {
+  border: 1px solid black;
+  width: 50vw;
+  padding: 2em;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.left {
+  text-align: left;
+  padding-left: 1em
+}
+
+.formAddLead {
+  margin-right: 2em;
+}
+
+.flex {
+  width: 100%;
+}
+
+.widthMax {
+  max-width: 500px;
+  margin: 16px auto;
+}
+
+.Title {
+  font-weight: bold;
+  display: flex;
+  font-size: 28px;
+
+}
+
+button {
+  border-radius: 5%;
+  border: black;
+  background-color: #3d98df;
+  color: white;
+  margin-bottom: 50px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.addButtonContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.addLeadContainerButton {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: 20px;
+}
+
+
+table {
+  width: 100%;
+  height: auto;
+  border-spacing: 0px;
+  border-collapse: none;
+  text-indent: none;
+  border: 0.5px solid black;
+  margin-bottom: 30px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+
+}
+
+tr {
+  height: 4em;
+}
+
+.gray {
+  background-color: #E6E6E6;
+}
+
+.white {
+  background-color: white;
+}
+
+th {
+  border: 0.5px solid black;
+  padding: 0;
+}
