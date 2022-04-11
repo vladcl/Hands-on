@@ -31,4 +31,5 @@ O projeto foi realizado React e JavaScript.
 - A função drag e drop é habilitada apenas para coluna da frente não podendo retornar uma coluna.
 
 
-### Feito por Vladson Carlos 😎
+#### Feito por Vladson Carlos 😎
+#### Obrigado por visualizar.
