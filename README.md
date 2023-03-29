@@ -1,6 +1,4 @@
-## Desafio Hands-on EloGroup
 
-Este foi um desafio proposto pela empresa EloGroup para servir como parte do processo seletivo. Esta aplicação consiste em desenvolver uma camada de Front-end para uma aplicação que irá realizar o gerenciamento de leads para uma empresa.
 
 ## Tecnologias
 
